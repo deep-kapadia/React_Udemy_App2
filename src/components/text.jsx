@@ -1,7 +1,7 @@
 const test = () => {
   return (
     <>
-      <div>Test component.</div>
+      <div>Test component. 123</div>
     </>
   );
 };
